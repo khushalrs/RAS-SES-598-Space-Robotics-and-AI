@@ -9,4 +9,4 @@ It was the first value I used LoL. The basis on which I made the assumption is f
 [Document](/submission/Perplexity_LQR_Question.pdf)
 
 ### Extra credit
-Will try RL Implementation of the controller next.
+Will try RL Implementation of the controller next
